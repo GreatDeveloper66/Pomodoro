@@ -1,0 +1,23 @@
+.w3-container > h1 {
+  font: normal normal bold 50px Roboto;
+  color: Black;
+}
+
+.w3-row > h2 {
+  font: normal normal bold 30px Roboto;
+  color: Black;
+}
+
+span:nth-child(2) {
+  font: normal normal normal 50px "Sans-Serif";
+  color: Black;
+}
+
+i:hover {
+  cursor: pointer;
+  color: grey;
+}
+
+.app-container {
+  width: 500px;
+}
